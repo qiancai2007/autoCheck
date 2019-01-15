@@ -1,1 +1,2 @@
-# autoCheck
+# autoCheck 
+just test
